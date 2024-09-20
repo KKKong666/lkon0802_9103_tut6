@@ -22,7 +22,7 @@ this is my first local change to the repo!
 
 ![An image of a cat](https://placekitten.com/200/300)
 
-![An image of the Me](/image/IMG_2371.JPG)
+![An image of the Me](image/IMG_2371.JPG)
 
 ```
 function helloWorld() {
